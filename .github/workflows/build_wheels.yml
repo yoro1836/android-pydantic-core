@@ -1,4 +1,4 @@
-Name: Android Wheels & Release
+name: Android Wheels & Release
 
 on:
   workflow_dispatch:
